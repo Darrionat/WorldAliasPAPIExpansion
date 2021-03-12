@@ -1,0 +1,13 @@
+# Compiled class file
+*.class
+
+# Eclipse IDE Files
+*.classpath
+*.project
+
+# Out folder
+**/bin
+
+# Eclipse Settings
+**/.settings
+*.iml
